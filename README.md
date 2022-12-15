@@ -1,2 +1,2 @@
 # microservice-laravel
-Belajar api dasar menggunakan laravel sebagai backend dan next.js sebagai frontend
+Belajar CRUD API dasar menggunakan laravel sebagai backend dan next.js sebagai frontend
